@@ -28,3 +28,5 @@ npm scirpts
 > `npm run build` Builds react project on 'build' directory and builds electron packages on 'dist' directory. (Building the react project first is necessary to build the electron packages)
 
 ---
+
+![Example](./docs/Sketch.png)
