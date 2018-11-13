@@ -36,9 +36,7 @@ app.on('ready', createWindow);
  * the user to quit the program.
  * */
 app.on('window-all-closed', () => {
-  if (process.platform !== 'darwin') {
     app.quit();
-  }
 });
 
 /**
