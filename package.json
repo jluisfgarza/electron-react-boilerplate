@@ -13,9 +13,9 @@
   },
   "devDependencies": {
     "concurrently": "^4.0.1",
-    "electron": "^3.0.0",
-    "electron-builder": "^20.28.4",
-    "wait-on": "^3.0.1"
+    "electron": "^3.0.9",
+    "electron-builder": "^20.34.0",
+    "wait-on": "^3.2.0"
   },
   "build": {
     "appId": "com.myapp",

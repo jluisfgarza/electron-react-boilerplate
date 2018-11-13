@@ -2,13 +2,7 @@
 
 ## Developer
 
-### Usage
-
 Run `npm install` after cloning the repo.
-
-### Testing and building projects
-
-npm scirpts
 
 ```JSON
 "scripts": {
@@ -23,9 +17,9 @@ npm scirpts
 }
 ```
 
-> `npm start` Starts react dev server and electron.
+> `npm start` Starts react react inside electron.
 
-> `npm run build` Builds react project on 'build' directory and builds electron packages on 'dist' directory. (Building the react project first is necessary to build the electron packages)
+> `npm run build` Builds react project on 'build' directory and builds electron packages on 'dist' directory.
 
 ---
 
